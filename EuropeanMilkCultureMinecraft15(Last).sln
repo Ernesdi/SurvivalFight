@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraft15(Last)", "EuropeanMilkCultureMinecraft15(Last).csproj", "{846C7535-326C-A0E2-4494-1B6C2D8E5046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraft15(Last).Plugins", "EuropeanMilkCultureMinecraft15(Last).Plugins.csproj", "{E94A003D-B395-D581-2A43-3B27170495F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraft15(Last).Editor.Plugins", "EuropeanMilkCultureMinecraft15(Last).Editor.Plugins.csproj", "{A0B940A1-93C8-8CAA-8CF4-E95D39CFF5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraft15(Last).Editor", "EuropeanMilkCultureMinecraft15(Last).Editor.csproj", "{2942BB87-78A3-3F70-71C1-0B770DC7E210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846C7535-326C-A0E2-4494-1B6C2D8E5046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846C7535-326C-A0E2-4494-1B6C2D8E5046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846C7535-326C-A0E2-4494-1B6C2D8E5046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846C7535-326C-A0E2-4494-1B6C2D8E5046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94A003D-B395-D581-2A43-3B27170495F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94A003D-B395-D581-2A43-3B27170495F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94A003D-B395-D581-2A43-3B27170495F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94A003D-B395-D581-2A43-3B27170495F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B940A1-93C8-8CAA-8CF4-E95D39CFF5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B940A1-93C8-8CAA-8CF4-E95D39CFF5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B940A1-93C8-8CAA-8CF4-E95D39CFF5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B940A1-93C8-8CAA-8CF4-E95D39CFF5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2942BB87-78A3-3F70-71C1-0B770DC7E210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2942BB87-78A3-3F70-71C1-0B770DC7E210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2942BB87-78A3-3F70-71C1-0B770DC7E210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2942BB87-78A3-3F70-71C1-0B770DC7E210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

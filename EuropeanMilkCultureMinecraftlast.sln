@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraftlast", "EuropeanMilkCultureMinecraftlast.csproj", "{A9F68E79-26B5-B487-CE0B-26F0544D5830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraftlast.Plugins", "EuropeanMilkCultureMinecraftlast.Plugins.csproj", "{C4D368C2-E198-D3EF-6D17-CC47F20AF52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraftlast.Editor.Plugins", "EuropeanMilkCultureMinecraftlast.Editor.Plugins.csproj", "{20466684-9D34-10CB-EA32-A08459AF0887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuropeanMilkCultureMinecraftlast.Editor", "EuropeanMilkCultureMinecraftlast.Editor.csproj", "{02E89CA3-54C2-4C80-4B67-295A87769C77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F68E79-26B5-B487-CE0B-26F0544D5830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F68E79-26B5-B487-CE0B-26F0544D5830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F68E79-26B5-B487-CE0B-26F0544D5830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F68E79-26B5-B487-CE0B-26F0544D5830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D368C2-E198-D3EF-6D17-CC47F20AF52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D368C2-E198-D3EF-6D17-CC47F20AF52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D368C2-E198-D3EF-6D17-CC47F20AF52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D368C2-E198-D3EF-6D17-CC47F20AF52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20466684-9D34-10CB-EA32-A08459AF0887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20466684-9D34-10CB-EA32-A08459AF0887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20466684-9D34-10CB-EA32-A08459AF0887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20466684-9D34-10CB-EA32-A08459AF0887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E89CA3-54C2-4C80-4B67-295A87769C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E89CA3-54C2-4C80-4B67-295A87769C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E89CA3-54C2-4C80-4B67-295A87769C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E89CA3-54C2-4C80-4B67-295A87769C77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
